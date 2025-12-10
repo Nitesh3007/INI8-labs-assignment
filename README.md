@@ -202,23 +202,15 @@ curl -X DELETE http://localhost:5000/documents/1
 # 📬 **Postman Collection (Manual)**
 
 ### Upload
-
-### Screenshot 183
 ![Screenshot 183](./images/screenshot-183.png)
 
 ### List
-
-### Screenshot 184
 ![Screenshot 184](./images/screenshot-184.png)
 
 ### Download
-
-### Screenshot 185
 ![Screenshot 185](./images/screenshot-185.png)
 
 ### Delete
-
-### Screenshot 186
 ![Screenshot 186](./images/screenshot-186.png)
 
 
